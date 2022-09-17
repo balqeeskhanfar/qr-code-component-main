@@ -14,29 +14,30 @@ body {
 }
 
 .container {
-  max-width: 375px;
+  max-width: 23.438rem;
   margin: auto;
 }
 
 .QR {
   background-color: hsl(0, 0%, 100%);
-  padding: 15px;
-  border-radius: 15px;
+  padding: 0.938rem;
+  border-radius: 0.938rem;
   text-align: center;
 }
 
 .QR img {
   width: 100%;
-  border-radius: 15px;
+  border-radius: 0.938rem;
 }
 
 p {
-  font-size: 15px;
+  font-size: 0.938rem;
   color: darkgray;
-  padding: 0px 40px 10px 40px;
+  padding: 0 2.5rem 0.625rem 2.5rem;
 }
 
-h4 {
-  padding: 25px 5px 9px 5px;
-  font-weight: 600;
+h1 {
+  padding: 1.563rem 0.313rem 0.563rem 0.313rem;
+  font-weight: 550;
+  font-size: 1.6rem;
 }
